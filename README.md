@@ -59,4 +59,4 @@ http://localhost:8000
 
 ## Customization
 
-Update the contact placeholders in `index.html` when real GitHub or X/Twitter links are available.
+Contact links are maintained in `index.html` for Telegram, Discord, X/Twitter, and email.
